@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Joseph Kuruvilla
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral researcher in cosmology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Institut d'Astrophysique Spatiale, Universite Paris-Saclay
+  url: "https://www.ias.u-psud.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Large-Scale Structures
+- Redshift-Space Distortions
+- Kinetic Sunyaev-Zel'dovich effect
+- N-body Simulations
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Astrophysics
+    institution: University of Bonn, Germany
+    year: 2019
+
+  - course: MSc in Astrophysics
+    institution: University of Bonn, Germany
+    year: 2015
+
+  - course: BSc in Physics, Mathematics & Electronics
+    institution: Christ University, Bangalore, India
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,19 +45,32 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:joseph.kuruvilla@universite-paris-saclay.fr'
+
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/j_kuruvilla
+
+- icon: ads
+  icon_pack: ai
+  link: https://ui.adsabs.harvard.edu/#search/q=author%3AKuruvilla%2C%20Joseph&sort=date%20desc%2C%20bibcode%20desc&p_=0
+
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/search/?searchtype=author&query=Kuruvilla%2C+J
+
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0088-5182
+
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/jkuruvilla
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,11 +83,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a postdoctoral researcher in cosmology working in the [ByoPiC](https://byopic.eu) group at Universite Paris-Saclay. I work mainly on understanding the non-linearities of the large-scale structures of our Universe. My primary research interests are the `redshift space distortions' (RSD) effect, and the kinetic Sunyaev-Zel'dovich (kSZ) effect.
