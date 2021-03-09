@@ -53,7 +53,8 @@ social:
 
 - icon: ads
   icon_pack: ai
-  link: https://ui.adsabs.harvard.edu/#search/q=author%3AKuruvilla%2C%20Joseph&sort=date%20desc%2C%20bibcode%20desc&p_=0
+  link: https://ui.adsabs.harvard.edu/public-libraries/mtwyy1TESHWvJTjOK2v9kw
+#https://ui.adsabs.harvard.edu/#search/q=author%3AKuruvilla%2C%20Joseph&sort=date%20desc%2C%20bibcode%20desc&p_=0
 
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
