@@ -1,5 +1,5 @@
 ---
-title: "Cosmology with the kinetic Sunyaev-Zeldovich effect: Independent of the optical depth and $\sigma_8$"
+title: "Cosmology with the kinetic Sunyaev-Zeldovich effect: Independent of the optical depth and sigma 8"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -24,7 +24,7 @@ publication_types: ["3"]
 publication: Submitted to *Astronomy & Astrophysics*
 publication_short: Submitted to *A&A*
 
-abstract: The cosmological constraints from the kinetic Sunyaev--Zeldovich experiments are degenerate with the optical depth measurement, which is commonly known as the optical-depth degeneracy. In this work, we introduce a new statistic based on the first moment of relative velocity between pairs in a triplet, which is capable of constraining cosmological parameters independent of the optical depth, and $\sigma_8$. Using 22,000 $N$-body simulations from the Quijote suite, we quantify the information content in the new statistic using Fisher matrix forecast. We find that it is able to obtain strong constraints on the cosmological parameters, particularly on the summed neutrino mass. The constraints have a factor of 6.2--12.9, and 2.3--5.7 improvement on all cosmological model parameters when compared to those obtained from the mean pairwise velocity, and the redshift-space halo power spectrum, respectively. Thus the new statistic paves a way forward to constrain cosmological parameters independent of the optical depth and $\sigma_8$ using data from future kinetic Sunyaev--Zeldovich experiments alone.
+abstract: The cosmological constraints from the kinetic Sunyaev--Zeldovich experiments are degenerate with the optical depth measurement, which is commonly known as the optical-depth degeneracy. In this work, we introduce a new statistic based on the first moment of relative velocity between pairs in a triplet, which is capable of constraining cosmological parameters independent of the optical depth, and sigma 8. Using 22,000 $N$-body simulations from the Quijote suite, we quantify the information content in the new statistic using Fisher matrix forecast. We find that it is able to obtain strong constraints on the cosmological parameters, particularly on the summed neutrino mass. The constraints have a factor of 6.2--12.9, and 2.3--5.7 improvement on all cosmological model parameters when compared to those obtained from the mean pairwise velocity, and the redshift-space halo power spectrum, respectively. Thus the new statistic paves a way forward to constrain cosmological parameters independent of the optical depth and sigma 8 using data from future kinetic Sunyaev--Zeldovich experiments alone.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
