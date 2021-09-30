@@ -33,7 +33,7 @@ abstract: Velocity field provides a complementary avenue to constrain cosmologic
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
